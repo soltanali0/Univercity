@@ -37,6 +37,7 @@ python3 projectile_motion.py
 ```
 ![image](https://github.com/soltanali0/Univercity/assets/87374678/88c63767-7820-49cd-a3da-5269a0fd3112)
 
+## parm to use
 ```text
 latitude0 Geographical latitude of launch location
 longitude0 Geographical longitude of launch location
