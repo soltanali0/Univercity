@@ -21,10 +21,28 @@ The `scipy.optimize.minimize` function is used to find the optimal launch angle 
 
 To use this script, provide the necessary input parameters and run it. The optimal launch angle, required initial velocity, time to collision, and maximum height will be displayed as output.
 
+## Dependencies
+Python 3.x
+scipy
+Install the required packages using:
+
+```python3
+pip install scipy
+pip install math
+```
 ## Example
 
 ```python
-pip install math
-pip install scipy
 python3 projectile_motion.py
 ```
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##Acknowledgments
+
+This code was created for educational purposes and can serve as a basic example of projectile motion calculations.
+
+Feel free to fork and modify the code as needed for your specific use case.
+
+Make sure to create a `LICENSE` file for your project if you choose to use the MIT License or any other license. You can replace the `<GitHub_Username>` with your actual GitHub username in the repository URL when you create it on GitHub.
+
