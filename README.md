@@ -51,14 +51,4 @@ initial_guess [math.radians(45)]
 ```
 
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-This code was created for educational purposes and can serve as a basic example of projectile motion calculations.
-
-Feel free to fork and modify the code as needed for your specific use case.
-
-Make sure to create a `LICENSE` file for your project if you choose to use the MIT License or any other license. You can replace the `soltanali0` with your actual GitHub username in the repository URL when you create it on GitHub.
 
