@@ -38,7 +38,7 @@ python3 projectile_motion.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 
 This code was created for educational purposes and can serve as a basic example of projectile motion calculations.
 
