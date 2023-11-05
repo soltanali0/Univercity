@@ -44,5 +44,5 @@ This code was created for educational purposes and can serve as a basic example 
 
 Feel free to fork and modify the code as needed for your specific use case.
 
-Make sure to create a `LICENSE` file for your project if you choose to use the MIT License or any other license. You can replace the `<GitHub_Username>` with your actual GitHub username in the repository URL when you create it on GitHub.
+Make sure to create a `LICENSE` file for your project if you choose to use the MIT License or any other license. You can replace the `soltanali0` with your actual GitHub username in the repository URL when you create it on GitHub.
 
