@@ -35,6 +35,22 @@ pip install math
 ```python
 python3 projectile_motion.py
 ```
+![image](https://github.com/soltanali0/Univercity/assets/87374678/88c63767-7820-49cd-a3da-5269a0fd3112)
+
+```text
+latitude0 Geographical latitude of launch location
+longitude0 Geographical longitude of launch location
+altitude0 Altitude relative to sea level at launch location
+temperatures Temperature at launch location (K) 
+latitude1 Geographical latitude of landing location
+longitude1 Geographical longitude of landing location
+altitude1 Altitude relative to sea level at landing location
+temperature1 Temperature at landing location (K)
+target_velocity The desired velocity to reach the destination (m/s)
+initial_guess [math.radians(45)]
+```
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
